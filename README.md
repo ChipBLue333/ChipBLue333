@@ -1,4 +1,4 @@
-# About me
+# About me (Anders)
 
 Here are some ideas to get you started:
 
