@@ -12,6 +12,8 @@ SoC design, AI accelerators...
 
 - 🔥 Welcome to discuss with me about everything you are interested in or what you want to know from me！
 
+Passion withstands the test of time.
+
 以下是我的一些自我介绍：
 
 - 🏫 学校：北京邮电大学 (BUPT)
@@ -22,3 +24,5 @@ SoC design, AI accelerators...
 - 📧 联系方式：anderschen2004@gmail.com
 
 - 🔥 欢迎与我交流讨论你所感兴趣或是想从我这里了解的一切！
+
+热爱可抵岁月漫长。
