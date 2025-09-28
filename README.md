@@ -3,7 +3,7 @@
 Here are some introductions about me:
 
 - 🏫 School: Beijing University of Posts and Telecommunications (BUPT)
-- 📊 Grade: 2023 admission (second year undergraduate)
+- 📊 Grade: 2023 admission (third year undergraduate)
 - ✍ Major: Integrated Circuit Design and Integrated Systems
 - ⚡ Areas of interest: Digital integrated circuits, computer architecture,
 SoC design, AI accelerators...
@@ -17,7 +17,7 @@ Passion withstands the test of time.
 以下是我的一些自我介绍：
 
 - 🏫 学校：北京邮电大学 (BUPT)
-- 📊 年级：2023 级（本科二年级）
+- 📊 年级：2023 级（本科三年级）
 - ✍ 专业：集成电路设计与集成系统
 - ⚡ 兴趣领域：数字集成电路、计算机体系结构、SoC 设计、AI 加速器……
 - 🙋‍♂️ 个人爱好：网球🎾、长跑🏃‍♂️、电影🎥、电子游戏🎮……
